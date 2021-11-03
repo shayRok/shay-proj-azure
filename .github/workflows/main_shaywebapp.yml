@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'shaywebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A1CE0A7884214CBCB73C760E22B09855 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F09D8D5677FA4993A2950BC5FBB8CB94 }}
           package: .
